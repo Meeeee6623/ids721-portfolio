@@ -29,7 +29,7 @@ highlight_themes_css = [
 
 [languages.en]
 title = "IDS 721 Portfolio"
-description = "A portfolio to showcase projects from IDS 721, built on Zola with the Papaya theme and hosted on GitHub pages."
+description = "This is a portfolio to showcase projects from IDS 721, built on Zola with the Papaya theme and hosted on GitHub pages."
 # The taxonomies to be rendered for the site and their configuration of the default languages
 taxonomies = [
     { name = "categories", feed = true, lang = "en" },
@@ -55,6 +55,7 @@ next_page = "To older posts"
 date_format = "%B %e, %Y"
 
 [extra]
+introduction = "Hello! I'm Benjamin Chauhan, a Computer Science student at Duke University."
 # Development environment. Used by the page macros to load remote content only when in "prod" mode
 env = "ZOLA_ENV"
 
@@ -66,6 +67,7 @@ menu_items = [
     { name = "projects", url = "$LANG_BASE_URL/projects", show_recent = true, recent_items = 3, recent_trans_key = "recent_projects", more_trans_key = "more_projects" },
     { name = "about", url = "$LANG_BASE_URL/about", show_recent = false },
 ]
+
 
 [extra.images]
 # Width defined in pixels

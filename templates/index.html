@@ -7,6 +7,9 @@
         {% set banner = resize_image(path="/static/banner.png", width=672, op="fit_width") %}
         <img src="{{ banner.url }}" class="index-banner" alt="The Cloud"/>
         <p>
+            {{ config.extra.introduction }}
+        </p>
+        <p>
             {{ config.description }}
         </p>
     </section>
