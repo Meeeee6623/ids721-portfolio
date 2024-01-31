@@ -21,8 +21,8 @@ highlight_code = true
 # See Zola configuration docs for list of allowed values.
 highlight_theme = "css"
 highlight_themes_css = [
-  { theme = "material-dark", filename = "syntax-theme-dark.css" },
-  { theme = "material-light", filename = "syntax-theme-light.css" },
+    { theme = "material-dark", filename = "syntax-theme-dark.css" },
+    { theme = "material-light", filename = "syntax-theme-light.css" },
 ]
 
 [languages]
