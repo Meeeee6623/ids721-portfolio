@@ -1,28 +1,21 @@
 +++
-title = "Example software project"
-date = 2021-08-11
+title = "Zola static site"
+date = 2024-01-30
 
 [taxonomies]
 categories = ["software"]
 
 [extra]
-repo_path = "justint/papaya"
+repo_path = "Meeeee6623/ids721-portfolio"
+featured_image = "img.png"
+featured_image_alt = "A zola loading page"
+featured_image_extended = false
 +++
 
-This is my first software project!
+This website!
 
 <!-- more -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin est augue, pellentesque sit amet nisi ut, viverra vestibulum purus. Quisque ac varius elit. 
+This project is a simple static website built with the Zola Papaya theme and hosted on GitHub Pages. 
 
-Praesent vitae pretium lacus, at placerat velit. Nulla feugiat quam eget quam tempus, id vulputate nulla suscipit. Vestibulum porta mollis molestie. In mollis diam et ante varius imperdiet et a elit. Mauris sodales quis nisi nec fringilla. 
-
-    Aenean sed fermentum nunc, a consectetur magna.
-
-Maecenas eget ligula porttitor, egestas orci id, gravida nisl. Aliquam erat volutpat. Sed dapibus felis quis lacus dignissim condimentum aliquam et orci. 
-
-1. Sed rutrum velit et purus volutpat rutrum. 
-2. Suspendisse mollis ante arcu, sit amet vehicula nisl cursus ac. 
-3. Donec tristique risus dolor, at tristique urna placerat et. 
-
-Nam vel interdum neque. Maecenas laoreet eget enim at rhoncus. Donec posuere diam leo, blandit semper urna semper nec. 
+Its main purpose is to serve as a portfolio for the class, showcasing projects completed throughout the semester.
