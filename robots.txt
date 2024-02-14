@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://meeeee6623.github.io/ids721-portfolio/sitemap.xml
